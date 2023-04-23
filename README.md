@@ -50,7 +50,14 @@
   ### 연락처 : 010-4294-1966
   ### 지역 : 서울
   ### Github : https://github.com/BAECHAN
+  ### Github_ToyProject : https://github.com/BAECHAN/lego_front
+  
+  <i>하단의 ToyProject 링크 접속 시 상단의 github repository의 README.md 파일을 먼저 참고해주시기 바랍니다.</i>
   ### ToyProject : https://port-0-lego-front-nx562olfs8ljco.sel3.cloudtype.app/
+  
+  
+  
+  
 <br>
 
 ***
