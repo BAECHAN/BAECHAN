@@ -37,8 +37,7 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white"/>&nbsp;
   </div>
-<br>
-
+  
 ***
 # Profile
   ### 이름 : 배찬
