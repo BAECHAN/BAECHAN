@@ -82,6 +82,7 @@
     <th>프로젝트 설명</th>
     <th>프로젝트 타입</th>
     <th>프로젝트 기술스택</th>
+    <th>프로젝트 참여율</th>
     <th>개인/사업</th>
   </thead>
   <tbody>
@@ -91,6 +92,7 @@
       <td>국내 학술지 논문 검색</td>
       <td>SM</td>
       <td>Java / Spring / Oracle / jQuery / HTML5 / CSS3 / Javascript</td>
+      <td>50%</td>
       <td>미소테크</td>
     </tr>
     <tr>
@@ -99,6 +101,7 @@
       <td>국가연구개발 투자분석 시스템</td>
       <td>SM</td>
       <td>Java / Spring / Oracle / jQuery / HTML5 / CSS3 / Javascript</td>
+      <td>40%</td>
       <td>미소테크</td>
     </tr>
     <tr>
@@ -107,6 +110,7 @@
       <td>국가연구개발 중개연구분야 분석</td>
       <td>SI/SM</td>
       <td>Java / Spring / Oracle / jQuery / HTML5 / CSS3 / Javascript</td>
+      <td>100%</td>
       <td>미소테크</td>
     </tr>
     <tr>
@@ -115,6 +119,7 @@
       <td>과학기술석학 디지털 아카이브 플랫폼 개발</td>
       <td>SI/SM</td>
       <td>Java / Spring / Mysql / jQuery / HTML5 / CSS3 / Javascript</td>
+      <td>50%</td>
       <td>미소테크</td>
     </tr>
     <tr>
@@ -122,7 +127,8 @@
       <td>토이프로젝트-레고사이트</td>
       <td>포트폴리오 제출용 개인프로젝트</td>
       <td>포트폴리오</td>
-      <td>React / Next.js / React-query / Recoil / Typescript / Java / Spring / MariaDB</td>
+      <td>React / Next.js / React-query / Recoil / Typescript / Java / Spring Boot / MariaDB</td>
+      <td>100%</td>
       <td>개인</td>
     </tr>
   </tbody>
