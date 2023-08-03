@@ -1,6 +1,6 @@
 <body align="center">
 
-# Introduce
+# 소개
   ## *다양한 사람들이 편하게 사용할 수 있는 프로그램을 만들기 위해 팀원들과 토론하는 개발자*
   <br>
   
@@ -16,7 +16,7 @@
 <br>
 
 ***
-# Tech Stack
+# 기술 스택
   <div>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=ReactQuery&logoColor=white"/>&nbsp;
@@ -38,7 +38,7 @@
   </div>
   
 ***
-# Profile
+# 프로필
   ### 이름 : 배찬
   ### 생년월일 : 1994-03-15
   ### 연락처 : 010-4294-1966
@@ -48,14 +48,12 @@
   
   <i>하단의 ToyProject 링크 접속 시 상단의 github repository의 README.md 파일을 먼저 참고해주시기 바랍니다.</i>
   ### ToyProject : https://port-0-lego-front-nx562olfs8ljco.sel3.cloudtype.app/
-  
-  
-  
-  
+
 <br>
 
+# 
 ***
-# Education
+# 학교
   ### 학력 : 서울 환일고등학교 졸업
   ### 최종학력 : 명지대학교 학사졸업
   ### 재학기간 : 2013-03 ~ 2020-02
@@ -63,7 +61,7 @@
 <br>
 
 ***
-# Career
+# 경력
   ### 회사명 : 미소테크(주)
   ### 재직기간 : 2020-03 ~ 2022-12 ( 2년 10개월 )
   ### 직급 : 사원
@@ -73,7 +71,7 @@
 <br>
 
 ***
-# Project
+# 프로젝트
 <table align="center">
   <thead>
     <th>기간</th>
@@ -129,7 +127,7 @@
 <br>
   
 ***
-# Certificate
+# 자격증
   ### 자격증 : 정보처리기사 
   ### 취득기간 : 2019-12
 
