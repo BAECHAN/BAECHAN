@@ -1,5 +1,18 @@
 <body align="center">
 
+# 프로필
+  ### 이름 : 배찬
+  ### 생년월일 : 1994-03-15
+  ### 연락처 : 010-4294-1966
+  ### 지역 : 서울
+  ### Github : https://github.com/BAECHAN
+  ### Github_ToyProject : https://github.com/BAECHAN/lego_front
+  ### Github_ToyProject_진행과정 : https://github.com/BAECHAN/lego_front/blob/main/HISTORY.md
+  ### ToyProject_서버 : https://port-0-lego-front-nx562olfs8ljco.sel3.cloudtype.app/
+
+<br>
+
+***
 # 소개
   ## *다양한 사람들이 편하게 사용할 수 있는 프로그램을 만들기 위해 팀원들과 토론하는 개발자*
   <br>
@@ -37,21 +50,8 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white"/>&nbsp;
   </div>
   
-***
-# 프로필
-  ### 이름 : 배찬
-  ### 생년월일 : 1994-03-15
-  ### 연락처 : 010-4294-1966
-  ### 지역 : 서울
-  ### Github : https://github.com/BAECHAN
-  ### Github_ToyProject : https://github.com/BAECHAN/lego_front
-  
-  <i>하단의 ToyProject 링크 접속 시 상단의 github repository의 README.md 파일을 먼저 참고해주시기 바랍니다.</i>
-  ### ToyProject : https://port-0-lego-front-nx562olfs8ljco.sel3.cloudtype.app/
+<br />
 
-<br>
-
-# 
 ***
 # 학교
   ### 학력 : 서울 환일고등학교 졸업
