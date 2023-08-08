@@ -93,7 +93,7 @@
       <td>2021-01 ~ 2022-12</td>
       <td>RndPie</td>
       <td>국가연구개발 투자분석 시스템</td>
-      <td>SM</td>
+      <td>SI/SM</td>
       <td>Java / Spring / Oracle / jQuery / HTML5 / CSS3 / Javascript</td>
       <td>미소테크</td>
     </tr>
