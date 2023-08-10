@@ -102,16 +102,31 @@
   </p>
 </div>
 <div>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>&nbsp;
+  <p>
+    상태관리를 위한 Store와 Reducer를 설정하고 Action과 Dispatch를 사용하여 상태변경하며 api 통신을 통해 간단한 CRUD처리를 할 수 있습니다.<br >
+    RTK 등의 다른 라이브러리를 같이 사용해보지는 않았습니다. React와 Redux를 활용하여 스터디원들과 간단한 Trello 프로그램을 만들어 본 적이 있습니다.
+  </p>
+</div>
+<div>
   <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=ReactQuery&logoColor=white"/>&nbsp;
   <p>
-    React
+    React Query의 컨셉을 이해하고 useQuery와 useMutation을 사용할 수 있으며, 데이터 캐싱을 고려하여 개발하려고합니다.<br>
+    useInfiniteQuery를 활용하여 페이지네이션 처리를 할 수 있습니다. React Query와 Recoil을 연동하여 사용할 수 있습니다.<br>
+    onMutate 속성을 이해하고 실패 시 State를 rollback 처리하는 데 고민을 하고 있습니다.
+  </p>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white"/>&nbsp;
+  <p>
+    Recoil의 컨셉인 Atom과 Selector를 이해하고 전역 상태를 관리할 수 있습니다.<br>
+    Recoil를 클라이언트 사이드 데이터를 관리해봐서 비동기 요청을 처리해본 경험은 없으나 React-query로 비동기 요청 후 atom을 수정해 본 경험은 있습니다.<br>
+    
   </p>
 </div>
 
 
 <div>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=Next.js&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Typescript-2962FF?style=flat-square&logo=typescript&logoColor=white"/>&nbsp; 
 </div>
