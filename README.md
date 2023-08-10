@@ -95,7 +95,21 @@
 
 <div>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp;
+  <p>
+    JSX문법으로 컴포넌트를 그릴 수 있으며, 컴포넌트의 상태관리 라이브러리 없이도 state와 props의 기본적인 사용법을 이해하고 있으며, Context API를 적용할 줄 압니다.<br>
+    기본적인 React Hooks를 사용하여 함수형 컴포넌트를 작성할 수 있지만 클래스형 컴포넌트를 다뤄본 적은 없습니다.<br />
+    상태관리 라이브러리로는 Redux와 React query, Recoil을 사용해 본 적이 있으며, 컴포넌트의 리렌더링을 고려하며 개발하려고 합니다.
+  </p>
+</div>
+<div>
   <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=ReactQuery&logoColor=white"/>&nbsp;
+  <p>
+    React
+  </p>
+</div>
+
+
+<div>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=Next.js&logoColor=white"/>&nbsp;
