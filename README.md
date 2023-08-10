@@ -22,12 +22,11 @@
   ## 이직하려는 이유
 
   저는 입사하기 전까지도 웹 개발을 모르는 상태에서 시작하였었고 솔직하게 신입 때까지는 돌아가기 위한 코드를 먼저 작성해왔었습니다.  
-  이전 직장에서는 프론트엔드도 백엔드도 재미있어 Full Stack 개발자로 성장하고 싶었으나
-  MPA 환경에서 작업하면서 아래의 클라이언트 관련 문제들에 대해 고민을 하며 시도하던 왔었고
-  
+  이전 직장에서는 백엔드 위주의 Full Stack 개발자로 성장하고 싶었으나  
+  MPA 환경에서 작업하면서 아래의 클라이언트 관련 문제들에 대해 고민을 하며 시도하던 왔었고  
   오프라인 스터디팀에서 React를 처음 공부하면서 지금껏 고민해왔던 부분들을 이미 다른 개발자들도 고민을 해왔고  
-  저와 같은 고민을 했던 사람들이 사용하는 SPA 구조를 활용한 개발자가 되고 싶다는 생각이 들어
-  이에 Fronted 개발자로 집중하고 싶어 이직을 결심하였습니다.  
+  저와 같은 고민을 했던 사람들이 사용하는 SPA 구조를 활용한 개발자가 되고 싶다는 생각이 들었으며  
+  프론트엔드를 할 때가 더 즐겁게 개발을 하고있는 제 모습을 보며 Fronted 개발자로 집중하고 싶어 이직을 결심하였습니다.  
   
   ### Q. 받아온 서버데이터를 클라이언트에서 재활용하기 위한 공간을 만들 수 있을 것인가?  
     
@@ -42,7 +41,7 @@
   이벤트위임을 이용하여 상위요소에 이벤트 핸들러를 부착하여 하위요소에도 이벤트가 실행될 수 있도록 처리하였다.  
   또는 이벤트 핸들러를 부착하는 방법으로 Web API인 Mutation Observer를 사용하여  
   DOM트리가 추가됨을 감지하여 이벤트 처리하는 등으로도 처리하였다.  
-
+  
 <br>
 
 ***
@@ -60,26 +59,60 @@
 
 ***
 # 기술 스택
-  <div>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=ReactQuery&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=Next.js&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/Typescript-2962FF?style=flat-square&logo=typescript&logoColor=white"/>&nbsp; 
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">&nbsp; 
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>&nbsp; 
-    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
-    <br>
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=StyledComponents&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/FontAwesome-528DD7?style=flat-square&logo=FontAwesome&logoColor=white"/>&nbsp;
-    <br>
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white"/>&nbsp;
-  </div>
-  
+
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">&nbsp; 
+  <p>
+    Element들의 구조와 역할을 이해하며, 각 Element에 대한 속성을 활용할 줄 알고 있습니다.<br>
+    다른 사이트의 디자인을 따라 레이아웃을 그릴 수 있으며, 시각장애인분들을 위해 웹접근성을 준수하며 HTML을 작성하려고 합니다.
+  </p>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp;
+  <p>
+    CSS 속성을 이해하고 사용하며,  이에 따라 width,height,margin,padding을 설정가능하며<br>
+    레이아웃을 위해 float나 postion, flex 정도 사용할 수 있습니다. 또한 간단한 transition이나 animation을 사용할 수 있습니다.<br>
+    grid의 경우 jquery 기반의 라이브러리나 실습 정도는 해보았지만 잘 다루지는 못합니다.
+  </p>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>&nbsp; 
+  <p>
+    기본적인 javascript 문법들을 숙지하고 있으며 라이브러리 없이 Vanilla JS로 DOM을 조작하거나 이벤트핸들링이 가능합니다.<br>
+    XHR, fetch, axios 등으로 비동기 처리를 할 수 있으며, ES5뿐만 아니라 ES6 이상의 주요 문법들도 다루고 있습니다.</br>
+    some이나 reduce등의 고차함수를 활용하여 로직을 구현할 줄 알고있습니다.
+  </p>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
+  <p>
+    Vanilla Javascript로 구현한 로직을 jQuery로 전환할 줄 알며, 역으로도 가능합니다.<br>
+    또한 일부 테이블이나 차트 관련된 jQuery 라이브러리들을 사용해본 적이 있으며 Ajax를 사용하여 비동기 요청을 다룰 수 있습니다.
+  </p>
+</div>
+
+<br>
+
+<div>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=ReactQuery&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=Next.js&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Typescript-2962FF?style=flat-square&logo=typescript&logoColor=white"/>&nbsp; 
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=StyledComponents&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/FontAwesome-528DD7?style=flat-square&logo=FontAwesome&logoColor=white"/>&nbsp;
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white"/>&nbsp;
+</div>
+
 <br />
 
 ***
