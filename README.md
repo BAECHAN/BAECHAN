@@ -121,15 +121,27 @@
   <p>
     Recoil의 컨셉인 Atom과 Selector를 이해하고 전역 상태를 관리할 수 있습니다.<br>
     Recoil를 클라이언트 사이드 데이터를 관리해봐서 비동기 요청을 처리해본 경험은 없으나 React-query로 비동기 요청 후 atom을 수정해 본 경험은 있습니다.<br>
-    
+    새로고침 되었을 때도 Recoil State를 유지할 필요가 있어 Recoil-persist 사용해 본 적이 있습니다.
+  </p>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=Next.js&logoColor=white"/>&nbsp;
+  <p>
+    Next.js에서 제공하는 Component의 구조와 역할을 이해하고 해당 Component의 속성들을 활용할 수 있습니다.<br >
+    기본적으로 동적 라우팅을 사용할 수 있으며, Next.js 라우팅이나 파일 구조에 익숙합니다.<br >
+    next-auth를 활용하여 OAuth를 구현해본 경험이 있으며, middleware로 서버와 통신하여 로그인 관련 로직을 처리할 수 있습니다.
   </p>
 </div>
 
-
 <div>
-  <img src="https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=Next.js&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Typescript-2962FF?style=flat-square&logo=typescript&logoColor=white"/>&nbsp; 
+  <p>
+    기본적인 문법과 typescript의 시스템을 이해하고 배열 타입 등의 객체에도 typescript를 적용할 수 있습니다.<br>
+    Next.js나 다른 상태 관리 라이브러리들과 any 타입을 사용하지 않고 연계할 수 있습니다.<br>
+    막연히 typescript를 쓰는 것이 아니라, javascript에서 어떠한 문제가 있어 typescript를 써왔는지를 실무에서 경험했었고 타입들을 상속하여 설계하려 합니다.
+  </p>
 </div>
+
 
 <div>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>&nbsp;
