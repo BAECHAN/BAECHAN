@@ -132,7 +132,6 @@
     next-auth를 활용하여 OAuth를 구현해본 경험이 있으며, middleware로 서버와 통신하여 로그인 관련 로직을 처리할 수 있습니다.
   </p>
 </div>
-
 <div>
   <img src="https://img.shields.io/badge/Typescript-2962FF?style=flat-square&logo=typescript&logoColor=white"/>&nbsp; 
   <p>
@@ -141,14 +140,11 @@
     막연히 typescript를 쓰는 것이 아니라, javascript에서 어떠한 문제가 있어 typescript를 써왔는지를 실무에서 경험했었고 타입들을 상속하여 설계하려 합니다.
   </p>
 </div>
-
-
 <div>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=StyledComponents&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/FontAwesome-528DD7?style=flat-square&logo=FontAwesome&logoColor=white"/>&nbsp;
 </div>
-
 <div>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white"/>&nbsp;
