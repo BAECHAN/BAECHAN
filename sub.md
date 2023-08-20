@@ -29,4 +29,7 @@
 
   이미지 최적화를 위해 버전업을 고려해보고 있지만 프로젝트 구조가 변경되는 게 걱정 ( 마이그레이션 하면서 12버전 구조도 지원한다고는 하지만 )
 
-  
+### React query - refetch() vs QueryClient.invalidateQueries()
+
+  refetch는 쿼리에 대한 observer가 없더라도 항상 refetch 처리하지만,  
+  invalidateQueries는 무효화처리하는데 초점을 맞추고 있으며, query를 stale한 상태로 변경 후 mount 되어야 refetch를 한다는 차이점이 있다.
