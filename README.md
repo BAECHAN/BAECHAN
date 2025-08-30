@@ -9,6 +9,9 @@
   
   React Query + Zustand 조합, Storybook, Tailwind 등을 토이 및 개인 프로젝트에서 먼저 검증한 뒤,<br >팀과 협의하여 실무에 도입함으로써 생산성과 협업 효율을 높인 경험이 있습니다.  
 
+
+  회사 내 코드컨벤션을 위해 ESLint & Prettier & Vite 를 코드컨벤션에 맞게 세팅하며 GitLab CI & AWS CloudFront S3 로 CI 파이프라인 구축해본 경험이 있습니다.
+
   
   또한 팀 내 지식 공유와 피드백 교환을 중요하게 여기며, 스터디와 프로젝트에서 리더로서 의견을 조율하고 <br >직급과 직군에 구애받지 않고 객관적으로 피드백을 수용하려 노력했습니다.  
 
@@ -34,96 +37,76 @@
 # 기술 스택
 
 <div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">&nbsp; 
-  <p>
-    Element들의 구조와 역할을 이해하며, 각 Element에 대한 속성을 활용할 줄 알고 있습니다.<br>
-    피그마나 타 사이트를 보고 레이어를 구축하여 HTML 혹은 JSX로 퍼블리싱가능하며, 웹접근성을 준수하며 HTML을 작성하려고 합니다.
-  </p>
-</div>
-<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp;
   <p>
-    CSS 속성을 이해하고 사용하며, position, flex, grid를 사용하며 화면을 구성할 수 있습니다. <br>
-    레이아웃을 위해 postion, flex 정도 사용할 수 있습니다. 또한 간단한 transition이나 animation을 사용할 수 있습니다.<br>
-    grid의 경우 jquery 기반의 라이브러리나 실습 정도는 해보았지만 잘 다루지는 못합니다.
-  </p>
-</div>
-<div>
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>&nbsp; 
-  <p>
-    기본적인 javascript 문법들을 숙지하고 있으며 라이브러리 없이 Vanilla JS로 DOM을 조작하거나 이벤트핸들링이 가능합니다.<br>
-    XHR, fetch, axios 등으로 비동기 처리를 할 수 있으며, ES5뿐만 아니라 ES6 이상의 주요 문법들도 다루고 있습니다.</br>
-    some이나 reduce등의 고차함수를 활용하여 로직을 구현할 줄 알고있습니다.
-  </p>
-</div>
-<div>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
-  <p>
-    Vanilla Javascript로 구현한 로직을 jQuery로 전환할 줄 알며, 역으로도 가능합니다.<br>
-    또한 일부 테이블이나 차트 관련된 jQuery 라이브러리들을 사용해본 적이 있으며 Ajax를 사용하여 비동기 요청을 다룰 수 있습니다.
+    Element들의 구조와 역할을 이해하며, 각 Element에 대한 속성을 활용할 줄 알고 있습니다.<br>
+    피그마나 타 사이트를 보고 컴포넌트 기반의 UI 설계 및 구축하여 HTML 혹은 JSX로 퍼블리싱가능하며, 웹접근성을 준수하며 HTML을 작성하려고 합니다.
   </p>
 </div>
 
-<br>
+<div>
+  <img src="https://img.shields.io/badge/Typescript-2962FF?style=flat-square&logo=typescript&logoColor=white"/>&nbsp; 
+  <p>
+    ES6+ 문법, 화살표 함수, 비구조화, 스프레드/레스트 연산자 등을 적극 활용합니다. <br>
+    typescript의 시스템을 이해하고 배열이나 이벤트핸들러 객체에도 typescript를 적용할 수 있습니다.<br>
+    컴포넌트 UI 설계 시 type도 같이 정의하여 설계하고 추후 API 연계 시 RequestDTO와 ResponseDTO를 따로 관리하려는 편입니다.
+    다른 라이브러리들과 any 타입을 사용하지 않고 연계할 수 있습니다.<br>
+  </p>
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>&nbsp; 
+  <p>
+    API 호출 순서를 논리적으로 처리할 줄 알며, React 상태 관리와 결합한 비동기 처리에 능합니다.
+  </p>
+</div>
 
 <div>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp;
   <p>
-    JSX문법으로 컴포넌트를 그릴 수 있으며, 컴포넌트의 상태관리 라이브러리 없이도 state와 props의 기본적인 사용법을 이해하고 있으며, Context API를 적용할 줄 압니다.<br>
-    기본적인 React Hooks를 사용하여 함수형 컴포넌트를 작성할 수 있지만 클래스형 컴포넌트를 다뤄본 적은 없습니다.<br />
-    상태관리 라이브러리로는 Redux와 React query, Recoil을 사용해 본 적이 있으며, 컴포넌트의 리렌더링을 고려하며 개발하려고 합니다.
+    React에서 리렌더링에 대한 이해도를 가지고 있으며, useState, useRef, useReducer를 상황에 맞게 사용하려는 편입니다.
+    공통 컴포넌트 설계 및 개발에 흥미가 있어 디자인 패턴을 분석하는 것을 좋아합니다.
   </p>
 </div>
-<div>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>&nbsp;
-  <p>
-    상태관리를 위한 Store와 Reducer를 설정하고 Action과 Dispatch를 사용하여 상태변경하며 api 통신을 통해 간단한 CRUD처리를 할 수 있습니다.<br >
-    RTK 등의 다른 라이브러리를 같이 사용해보지는 않았습니다. React와 Redux를 활용하여 스터디원들과 간단한 Trello 프로그램을 만들어 본 적이 있습니다.
-  </p>
-</div>
+
 <div>
   <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=ReactQuery&logoColor=white"/>&nbsp;
   <p>
-    React Query의 컨셉을 이해하고 useQuery와 useMutation을 사용할 수 있으며, 데이터 캐싱을 고려하여 개발하려고합니다.<br>
-    useInfiniteQuery를 활용하여 페이지네이션 처리를 할 수 있습니다. React Query와 Recoil을 연동하여 사용할 수 있습니다.<br>
-    onMutate 속성을 이해하고 실패 시 State를 rollback 처리하는 데 고민을 하고 있습니다.
+    쿼리 캐싱을 위해 staleTime, refetchOnWindowFocus 등 실무 활용 중심으로 이해하지만, 실제로 사용한 경험은 적은 편입니다.
   </p>
 </div>
+
 <div>
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/zustand-602c3c?style=flat-square&logo=zustand&logoColor=white" />
   <p>
-    Recoil의 컨셉인 Atom과 Selector를 이해하고 전역 상태를 관리할 수 있습니다.<br>
-    Recoil를 클라이언트 사이드 데이터를 관리해봐서 비동기 요청을 처리해본 경험은 없으나 React-query로 비동기 요청 후 atom을 수정해 본 경험은 있습니다.<br>
-    새로고침 되었을 때도 Recoil State를 유지할 필요가 있어 Recoil-persist 사용해 본 적이 있습니다.
+    React-Query와 함께 상태 관리 조합을 적용해본 경험이 있으며, Persist를 활용하여 UX 개선 경험이 있습니다.
   </p>
 </div>
+
 <div>
   <img src="https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=Next.js&logoColor=white"/>&nbsp;
   <p>
-    Next.js에서 제공하는 Component의 구조와 역할을 이해하고 해당 Component의 속성들을 활용할 수 있습니다.<br >
-    기본적으로 동적 라우팅을 사용할 수 있으며, Next.js 라우팅이나 파일 구조에 익숙합니다.<br >
-    next-auth를 활용하여 OAuth를 구현해본 경험이 있으며, middleware로 서버와 통신하여 로그인 관련 로직을 처리할 수 있습니다.
+    예전에 토이프로젝트로 next-auth를 활용하여 OAuth를 구현해본 경험이 있으며, middleware로 서버와 통신하여 로그인 관련 로직을 처리할 수 있으나, 실무경험이 없습니다.
   </p>
-</div>
-<div>
-  <img src="https://img.shields.io/badge/Typescript-2962FF?style=flat-square&logo=typescript&logoColor=white"/>&nbsp; 
-  <p>
-    기본적인 문법과 typescript의 시스템을 이해하고 배열 타입 등의 객체에도 typescript를 적용할 수 있습니다.<br>
-    Next.js나 다른 상태 관리 라이브러리들과 any 타입을 사용하지 않고 연계할 수 있습니다.<br>
-    막연히 typescript를 쓰는 것이 아니라, javascript에서 어떠한 문제가 있어 typescript를 써왔는지를 실무에서 경험했었고 타입들을 상속하여 설계하려 합니다.
-  </p>
-</div>
-<div>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=StyledComponents&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/FontAwesome-528DD7?style=flat-square&logo=FontAwesome&logoColor=white"/>&nbsp;
-</div>
-<div>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white"/>&nbsp;
 </div>
 
 <br />
+
+## 그 외 기술
+
+- Spring MVC
+
+- Git
+- AWS EC2, CloudFront, S3 등
+
+- React Hook Form
+
+- Redux, Recoil
+
+- Tailwind
+- Storybook
+- shadcn/ui
 
 ***
 # 경력
