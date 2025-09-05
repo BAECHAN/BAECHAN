@@ -6,8 +6,9 @@
 
   저는 Spring MVC 로 시작하여 현재는 React를 활용하여 개발하고 있으며, 새로운 기술을 부담 없이 학습하고 프로젝트에 적절히 적용해왔습니다.  
 
-  
-기술이나 방법론을 성능 및 개발자 경험을 개선하기 위해 개인 프로젝트에서 먼저 확인 후, 팀과 협의하여 실무에 도입함으로써 생산성과 협업 효율을 높인 경험이 있습니다.
+
+  기술이나 방법론을 성능 및 개발자 경험을 개선하기 위해 개인 프로젝트에서 먼저 확인 후, 팀과 협의하여 실무에 도입함으로써 생산성과 협업 효율을 높인 경험이 있습니다.
+
 
   회사 내 코드컨벤션을 위해 ESLint & Prettier & Vite 를 코드컨벤션에 맞게 세팅하며 GitLab CI & AWS CloudFront S3 로 CI 파이프라인 구축해본 경험이 있습니다.
 
@@ -23,7 +24,6 @@
   ### ● 누가 읽어도 이해하기 쉽고 유지보수력을 높이기 위해 가독성 좋고 공통화된 코드를 작성하려는 개발자입니다.
   ### ● 지인들과 개발에 대한 의견을 나누며 다양한 의견을 듣는 것을 좋아하며 피드백을 받고 고민하는 개발자입니다.
   ### ● 웹사이트를 어려워하시는 저희 부모님과 같이 아들한테 안물어봐도 쉽게 사용하실 수 있는 사이트를 만들고 싶어하는 개발자입니다.
-  ### ● 다른 사이트들을 돌아다니며 프로젝트에 도입해보는걸 좋아하는 개발자입니다.
 
 ***
 # 프로필
@@ -50,21 +50,13 @@
     ES6+ 문법, 화살표 함수, 비구조화, 스프레드/레스트 연산자 등을 적극 활용합니다. <br>
     typescript의 시스템을 이해하고 배열이나 이벤트핸들러 객체에도 typescript를 적용할 수 있습니다.<br>
     컴포넌트 UI 설계 시 type도 같이 정의하여 설계하고 추후 API 연계 시 RequestDTO와 ResponseDTO를 따로 관리하려는 편입니다.
-    다른 라이브러리들과 any 타입을 사용하지 않고 연계할 수 있습니다.<br>
-  </p>
-</div>
-
-<div>
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>&nbsp; 
-  <p>
-    API 호출 순서를 논리적으로 처리할 줄 알며, React 상태 관리와 결합한 비동기 처리에 능합니다.
   </p>
 </div>
 
 <div>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp;
   <p>
-    React에서 리렌더링에 대한 이해도를 가지고 있으며, useState, useRef, useReducer를 상황에 맞게 사용하려는 편입니다.
+    React에서 리렌더링에 대한 이해도를 가지고 있으며, useState, useRef, useReducer를 상황에 맞게 사용하려는 편입니다. <br>
     공통 컴포넌트 설계 및 개발에 흥미가 있어 디자인 패턴을 분석하는 것을 좋아합니다.
   </p>
 </div>
@@ -86,7 +78,8 @@
 <div>
   <img src="https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=Next.js&logoColor=white"/>&nbsp;
   <p>
-    예전에 토이프로젝트로 next-auth를 활용하여 OAuth를 구현해본 경험이 있으며, middleware로 서버와 통신하여 로그인 관련 로직을 처리할 수 있으나, 실무경험이 없습니다.
+    예전에 토이프로젝트로 next-auth를 활용하여 OAuth를 구현해본 경험이 있으며,<br>
+    middleware로 서버와 통신하여 로그인 관련 로직을 처리할 수 있으나, 실무경험이 없습니다.
   </p>
 </div>
 
@@ -107,74 +100,7 @@
 - Storybook
 - shadcn/ui
 
-***
-# 경력
-  ### 회사명 : 미소테크(주)
-  ### 재직기간 : 2020-03 ~ 2022-12 ( 2년 10개월 )
-  ### 직급 : 사원
-  ### 업무 : 논문/특허/학술지 관련 혹은 기업 재무 데이터 관련 통계 SI / SM
-  ### 포지션 : Full Stack Engineer
-  ### 프로젝트 업무 관련
-  ### DB설계 후 서버를 통해 클라이언트로 API를 전달하여 데이터 통계 및 시각화 하여 화면에 보여주는 업무를 주로 진행하였습니다. 
 
-
-<br>
-
-***
-# 프로젝트
-<table align="center">
-  <thead>
-    <th>기간</th>
-    <th>프로젝트 이름</th>
-    <th>프로젝트 설명</th>
-    <th>프로젝트 타입</th>
-    <th>프로젝트 기술스택</th>
-    <th>개인/사업</th>
-  </thead>
-  <tbody>
-    <tr>
-      <td>2020-03 ~ 2020-12</td>
-      <td>NDSL</td>
-      <td>국내 학술지 논문 검색</td>
-      <td>SM</td>
-      <td>Java / Spring / Oracle / jQuery / HTML5 / CSS3 / Javascript</td>
-      <td>미소테크</td>
-    </tr>
-    <tr>
-      <td>2021-01 ~ 2022-12</td>
-      <td>RndPie</td>
-      <td>국가연구개발 투자분석 시스템</td>
-      <td>SI/SM</td>
-      <td>Java / Spring / Oracle / jQuery / HTML5 / CSS3 / Javascript</td>
-      <td>미소테크</td>
-    </tr>
-    <tr>
-      <td>2021-09 ~ 2022-12</td>
-      <td>중개연구플랫폼</td>
-      <td>국가연구개발 중개연구분야 분석</td>
-      <td>SI/SM</td>
-      <td>Java / Spring / Oracle / jQuery / HTML5 / CSS3 / Javascript</td>
-      <td>미소테크</td>
-    </tr>
-    <tr>
-      <td>2021-12 ~ 2022-12</td>
-      <td>한국과학기술한림원</td>
-      <td>과학기술석학 디지털 아카이브 플랫폼 개발</td>
-      <td>SI/SM</td>
-      <td>Java / Spring / Mysql / jQuery / HTML5 / CSS3 / Javascript</td>
-      <td>미소테크</td>
-    </tr>
-    <tr>
-      <td>2022-10 ~ </td>
-      <td>토이프로젝트-레고사이트</td>
-      <td>포트폴리오 제출용 개인프로젝트</td>
-      <td>포트폴리오</td>
-      <td>React / Next.js / React-query / Recoil / Typescript / Java / Spring Boot / MariaDB</td>
-      <td>개인</td>
-    </tr>
-  </tbody>
-</table>
-<br>
 
 ***
 # 학교
